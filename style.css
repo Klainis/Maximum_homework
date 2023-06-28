@@ -2,14 +2,23 @@ h1 {
     background: red;
 }
 .paragraph-1 {
-    background: blue;
+    background: grey;
     font-size: 32pt;
-    color: green;
+    color: firebrick;
 }
 
 .paragraph-2 {
     border: 10px solid yellow;
     border-radius: 5px;
     font-size: 24pt;
-    margin-bottom:
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+
+.paragraph-3 {
+    font-size: 24px;
+    font-style: oblique;
+    text-align: center;
+    text-shadow: yellow 1px 1px;
 }
